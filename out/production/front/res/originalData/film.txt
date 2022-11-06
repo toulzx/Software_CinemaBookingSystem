@@ -1,0 +1,6 @@
+1	肖申克的救赎	很好看	../data/images/Shawshank_Redemption_ver2.jpg	1994/9/10
+2	阿甘正传	很好看	../data/images/Forrestgumppost.jpg	1994/7/23
+3	千与千寻	喜欢	../data/images/Spirited_away_poster.jpg	2001/7/20
+4	盗梦空间	不错不错	../data/images/Inception_ver3.jpg	2010/7/16
+5	星际穿越	还行	../data/images/Interstellar_film_poster.jpg	2014/11/7
+6	机器人总动员	喜欢	../data/images/Wall-E_Poster2.jpg	2008/6/27

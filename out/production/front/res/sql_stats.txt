@@ -1,0 +1,7 @@
+select filmId, count(*) as amount from (
+	select bookinfo.id as id,filmId,filmscreen.id as screenId,tel from filmscreen, bookinfo 
+	where filmscreen.id=bookinfo.screenId
+	group by filmId, screenId
+) as table1 group by filmId, tel having tel=?
+order by amount desc
+; -- 已经去同场电影的重复订票：某个人每个电影的观看次数 table2
